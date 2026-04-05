@@ -4,7 +4,7 @@ Je vous présente aujourd'hui une maquette web sur le thème et l'univers de l'a
 <br>
 C'est le début d'une série de petit maquette sous forme de site, applications, applications web, éléments graphique/digitaux sur plusieurs thèmes comme la musique, l'art, l'informatique, les produits commerciaux et la vie.
 
-![https://i.postimg.cc/QCrvt9hv/demo-luther.gif]
+https://i.postimg.cc/QCrvt9hv/demo-luther.gif
 
 ## Responsive écran 
 Téléphone : Supporter (douteux pour l'instant) + passer le doigt sur "Digital" pour avoir l'animation
